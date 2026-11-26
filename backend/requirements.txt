@@ -1,0 +1,16 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-multipart>=0.0.9
+pydantic-settings>=2.4
+psycopg[binary,pool]>=3.2
+pgvector>=0.3
+redis>=5.0
+numpy>=1.26
+pypdf>=4.3
+torch
+sentence-transformers>=3.0
+langchain-core>=0.3
+langchain-openai>=0.2
+langchain-text-splitters>=0.3
+langgraph>=0.2
+cohere>=5.11
